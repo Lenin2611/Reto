@@ -1,0 +1,26 @@
+{
+    "1002": {
+        "nombre": "Brayan Martinez",
+        "fecha": "2-2-2024",
+        "hora": "14:30",
+        "motivo": "Dolor de muela"
+    },
+    "1003": {
+        "nombre": "Pablo Ortega",
+        "fecha": "11-2-2023",
+        "hora": "10:00",
+        "motivo": "Dolor de pecho"
+    },
+    "1004": {
+        "nombre": "Lenin Mu\u00f1oz",
+        "fecha": "12-12-2023",
+        "hora": "12:0",
+        "motivo": "Dolor de espalda"
+    },
+    "1005": {
+        "nombre": "Lina Quintero",
+        "fecha": "11-11-2024",
+        "hora": "18:30",
+        "motivo": "Dolor de pie"
+    }
+}
